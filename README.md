@@ -6,5 +6,5 @@ I am Akhilesh Negi, a passionate software engineer from the wonderful India with
 - 💬 Ask me about java and python
 - 📫 How to reach me: 
 Connect with me on <a href="https://www.linkedin.com/in/akhilesh-negi-a260a7119/">LinkedIn 👨🏻‍💻 </a>
-Send me an email 📧
+<a href="akhileshnegi1710@gmail.com">Send me an email 📧</a>
 
