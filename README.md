@@ -5,6 +5,6 @@ I am Akhilesh Negi, a passionate software engineer from the wonderful India with
 - 🌱 I’m currently learning MicroServices, Kafka and other things
 - 💬 Ask me about java and python
 - 📫 How to reach me: 
-Connect with me on LinkedIn 👨🏻‍💻 
+Connect with me on <a href="https://www.linkedin.com/in/akhilesh-negi-a260a7119/">LinkedIn 👨🏻‍💻 </a>
 Send me an email 📧
 
