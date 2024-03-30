@@ -2,7 +2,7 @@ Hello folks! 👋
 I am Akhilesh Negi, a passionate software engineer from the wonderful India with a strong interest in Microservice and Cloud Architectures.
 
 - 🔭 I’m currently working on Java
-- 🌱 I’m currently learning MicroServices, Kafka and other things
+- 🌱 Learning MicroServices, Kafka and other things
 - 💬 Ask me about java and python
 - 📫 How to reach me: <br>
 Connect with me on <br><a href="https://www.linkedin.com/in/akhilesh-negi-a260a7119/">LinkedIn 👨🏻‍💻 </a><br>
